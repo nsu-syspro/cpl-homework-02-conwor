@@ -1,0 +1,28 @@
+arithmetic operators:
+A + B  : 2037
+A - B  : 2011
+A * B  : 26312
+A / B  : 155
+A % B  : 9
+-A     : -2024
+
+logical operators:
+A && B : 1
+A || B : 1
+!A     : 0
+
+bitwise operators:
+A & B  : 8
+A | B  : 2029
+A ^ B  : 2021
+A << B : 16580608
+A >> B : 0
+~A     : -2025
+
+relational operators:
+A == B : 0
+A != B : 1
+A < B  : 0
+A > B  : 1
+A <= B : 0
+A >= B : 1

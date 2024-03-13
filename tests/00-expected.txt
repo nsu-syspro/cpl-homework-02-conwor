@@ -1,0 +1,28 @@
+arithmetic operators:
+A + B  : 7
+A - B  : -1
+A * B  : 12
+A / B  : 0
+A % B  : 3
+-A     : -3
+
+logical operators:
+A && B : 1
+A || B : 1
+!A     : 0
+
+bitwise operators:
+A & B  : 0
+A | B  : 7
+A ^ B  : 7
+A << B : 48
+A >> B : 0
+~A     : -4
+
+relational operators:
+A == B : 0
+A != B : 1
+A < B  : 1
+A > B  : 0
+A <= B : 1
+A >= B : 0
